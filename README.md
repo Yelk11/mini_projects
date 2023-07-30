@@ -1,4 +1,4 @@
-Sure! Here are the programming project ideas rewritten in Markdown format:
+# mini projects
 
 1. **To-Do List Manager:**
    Create a console-based application that allows users to add, remove, and view tasks in a to-do list. Implement functionalities like marking tasks as completed, saving the list to a file, and loading it back.
