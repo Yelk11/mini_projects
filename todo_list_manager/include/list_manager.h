@@ -1,9 +1,9 @@
 
 #define MAX_TASKS 100
-#define MAX_LENGTH 100
+
 
 typedef struct list_T{
-    char tasks[MAX_TASKS][MAX_LENGTH];
+    char* tasks[MAX_TASKS];
     int num_tasks;
 }list_T;
 
